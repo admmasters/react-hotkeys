@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "lodash": "^3.1.0",
+    "lodash": "^4.17.5",
     "mousetrap": "^1.5.2"
   },
   "peerDependencies": {
